@@ -22,7 +22,17 @@ This project specifically delves into how daily fluctuations in oil prices might
 
 For more technical details, code implementation, and results, please explore the repository further.
 
-## Teaser
+## ARIMA
 
-https://github.com/pravin-raut/TimeSeries_USD-EUR_WithOilImpact/assets/65663124/ff1fc9b4-e325-420c-a6a1-e443bb0f4750
+https://github.com/pravin-raut/TimeSeries_USD-EUR_WithOilImpact/assets/65663124/d13345e6-6ea5-4522-b25b-73fd4ae4c0a2
+
+
+## MLP
+
+https://github.com/pravin-raut/TimeSeries_USD-EUR_WithOilImpact/assets/65663124/a566e46f-1c60-4ecf-9cb2-e86ef154bb9f
+
+
+## SVR
+
+https://github.com/pravin-raut/TimeSeries_USD-EUR_WithOilImpact/assets/65663124/85578952-a0d6-4d3e-aed3-821db84aa955
 
