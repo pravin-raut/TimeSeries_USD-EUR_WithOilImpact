@@ -1,0 +1,1 @@
+# TimeSeries_USD-EUR_WithOilImpact
